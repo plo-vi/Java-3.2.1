@@ -171,7 +171,7 @@ public class Wall {
         this.canPin = canPin;
     }
 
-    public boolean isCanDelete() {
+    public boolean isCanDelete(boolean b) {
         return canDelete;
     }
 
